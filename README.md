@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Elizabeth. I am passionate about solving problems  and creating user-friendly digital products. My background in sales, online marketing, and a degree in computer science gives me a strong blend of technical skills and a customer-centric focus. This combination allows me to build solutions that are not only functional but also aligned with user needs and business goals. 
 
 <!--
 **msselizabeth/msselizabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
